@@ -1,11 +1,3 @@
-Here is a **complete README.md** file tailored for your Week 7 KAIM project submission:
-**"Shipping a Data Product: From Raw Telegram Data to an Analytical API"**
-
-You can copy this directly to your repository root.
-
----
-
-````markdown
 # 📦 KAIM Week 7 – Shipping a Data Product: From Raw Telegram Data to an Analytical API
 
 This repository contains an end-to-end data pipeline project developed as part of **10 Academy's Artificial Intelligence Mastery (KAIM) Week 7 Challenge**. The project extracts and analyzes messages and images from Ethiopian medical-related Telegram channels, transforming them into actionable insights via an analytical API.
@@ -68,8 +60,8 @@ kaim-week7/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/kaim-week7-medical-pipeline.git
-cd kaim-week7-medical-pipeline
+git clone https://github.com/DagmMesfin/shipping-data-product-week7.git
+cd shipping-data-product-week7
 ```
 
 ### 2. Set Up Environment Variables
