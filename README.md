@@ -68,8 +68,8 @@ kaim-week7/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/kaim-week7-medical-pipeline.git
-cd kaim-week7-medical-pipeline
+git clone https://github.com/DagmMesfin/shipping-data-product-week7.git
+cd shipping-data-product-week7
 ```
 
 ### 2. Set Up Environment Variables

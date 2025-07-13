@@ -16,3 +16,5 @@ __pycache__/
 mlruns/
 notebooks/mlruns/
 exported_model/
+
+.env
