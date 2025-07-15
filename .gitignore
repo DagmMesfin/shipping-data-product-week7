@@ -18,3 +18,4 @@ notebooks/mlruns/
 exported_model/
 
 .env
+session.session
